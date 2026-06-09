@@ -1,0 +1,10 @@
+Patient Age: 25
+
+Diagnosis: Chronic Migraine
+
+Failed Medications:
+Medicine A
+Medicine B
+
+Neurologist Recommendation:
+Yes

@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+uploaded_note.pdf
+logs/
+chroma_db/
+.env

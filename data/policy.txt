@@ -1,0 +1,4 @@
+Migraine treatment is approved only if:
+1. Patient is above 18 years old.
+2. Patient has failed at least two previous medications.
+3. Neurologist recommendation is present.
