@@ -1,4 +1,4 @@
-# 🏥 MediAgent
+ # MediAgent
 
 AI-powered Medical Prior Authorization Assistant built using LangGraph, Qwen3, ChromaDB, FastAPI, and Python.
 
@@ -48,9 +48,6 @@ Open:
 http://127.0.0.1:8000/ui
 ```
 
-## Screenshots
-
-(Add screenshots here)
 
 ## Future Improvements
 
